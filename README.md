@@ -1,4 +1,4 @@
-![Geeks for Geeks](images/geeksforgeeks.png)
+![geeksforgeeks](https://github.com/user-attachments/assets/11fd52f1-64ab-4d9a-aa70-7027480383d8)
 
 # Geeks-for-geeks-solutions
 
